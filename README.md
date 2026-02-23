@@ -29,7 +29,7 @@ A ToDoAPI fornece endpoints para criar, ler, atualizar e deletar notas/tarefas. 
 
 ### 1. Clone o repositório
 ```bash
-git clone <seu-repositorio>
+git clone (https://github.com/JeanCampos1604/ToDoAPI.git)
 cd ToDoAPI
 ```
 
